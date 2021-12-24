@@ -1,1 +1,34 @@
-<mxfile host="app.diagrams.net" modified="2021-12-23T01:32:31.068Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="uD0Pr1eOsndEESUC1KA0" version="16.0.0" type="github"><diagram id="gA0RxG7rJZpZwTIYB1V7" name="Page-1">xZRRT4NADMc/DY8mDIxsr+KcD5qZLGbPJ9fBzYOSWxngp/cYZYDLpiYaEx6uv5Zr+7/eOX6YVgsj8uQJJWjHc2Xl+HeO502uPc9pPlfWLQkCBrFRkoN6sFLvwNBlWigJu1EgIWpS+RhGmGUQ0YgJY7Ach21Qj7PmIoYTsIqEPqVrJSlp6dQLev4AKk66zJObWetJRRfMnewSIbEcIH/u+KFBpHaVViHoRrxOl/a/+zPeY2EGMvrOD29rky3hOXiZbcIItq/LiIIrn2ujumsYpO2fTTSUYIyZ0POe3hosMgnNrq61+phHxNzCiYVbIKr5MEVBaFFCqWbvaeXczA4LE8GFcrsJECYGuhDHM9b0MkjAuiwAUyBT2wADWpDaj89a8MjEx7heVbtgYX8gMu+7F7rgTCeql4kiWOXi0H1pr9JYMbHL2+HeqKpR/ryEezAE1cWm2TvlueSLOenscjDmjJLBhHfs11XyvlbJ7mLvfTOD/6CXN/sk2OzPBLNm/y4cfIPX1Z9/AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-12-24T07:31:17.619Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="qp_A471GuLpM5gKGuT1U" version="16.0.3" type="github">
+  <diagram id="gA0RxG7rJZpZwTIYB1V7" name="Page-1">
+    <mxGraphModel dx="1422" dy="772" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="we9zV2qWj6Sq7xit3V_k-6" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="30" y="130" width="630" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="we9zV2qWj6Sq7xit3V_k-1" value="站点" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="190" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="we9zV2qWj6Sq7xit3V_k-2" value="微服务&lt;br&gt;（RTS、FMS）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="190" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="we9zV2qWj6Sq7xit3V_k-3" value="Docker集群域名" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="190" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="we9zV2qWj6Sq7xit3V_k-7" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="380" width="400" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="we9zV2qWj6Sq7xit3V_k-8" value="站点" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="410" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="we9zV2qWj6Sq7xit3V_k-10" value="Docker集群域名" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="374" y="410" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="we9zV2qWj6Sq7xit3V_k-11" value="RTS" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="285" y="490" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
